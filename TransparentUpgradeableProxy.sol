@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: No License (None)
+pragma solidity ^0.8.21;
 
 // File: openzeppelin-solidity/contracts/proxy/Proxy.sol
-pragma solidity ^0.8.0;
 
 /**
  * @dev This abstract contract provides a fallback function that delegates all calls to another contract using the EVM
